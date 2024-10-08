@@ -1,11 +1,6 @@
 Baze podataka (BP)
 ==================
 
-## Instalacija MySql
-`sudo apt install mysql-server mysql-workbench-community`
-
-## [Inicijalizacija glavne baze podataka](./Vjezbe/init/)
-
 ## [Literatura](./Literatura)
 - [An Introduction to Database Systems](./Literatura/An_Introduction_to_Database_Systems_-_C_J_Date_-_8th_Edition.pdf)
 - [Database Modeling and Design](./Literatura/Database_Modeling_and_Design_-_Toby_J._Teorey,_Sam_S._Lightstone,_Thomas_P._Nadeau_-_4th_Edition.pdf)
@@ -21,3 +16,5 @@ Profesorove prezentacije iz predmeta.
 
 ## [Vjezbe](./Vjezbe)
 Kod i primjeri sa vježbi.
+
+### [Inicijalizacija glavne baze podataka](./Vjezbe/init/)
