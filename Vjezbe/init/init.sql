@@ -1,4 +1,4 @@
-CREATE DATABASE stusluMaSu CHARACTER SET = 'utf8mb4' COLLATE = 'utf8mb4_croatian_ci';
+CREATE DATABASE stusluMaSu CHARACTER SET = 'utf8' COLLATE = 'utf8_croatian_ci';
 
 USE stusluMaSu;
 
@@ -76,3 +76,13 @@ CREATE TABLE rezervacija (
     sifPred INTEGER NOT NULL
 );
 CREATE UNIQUE INDEX rezervacijaUnique ON rezervacija (oznDvorana, oznVrstaDan, sat);
+
+LOAD DATA INFILE 'tmp/zupanija.unl'    INTO TABLE zupanija    FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '#\r';
+LOAD DATA INFILE 'tmp/mjesto.unl'      INTO TABLE mjesto      FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '#\r';
+LOAD DATA INFILE 'tmp/stud.unl'        INTO TABLE stud        FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '\r';
+LOAD DATA INFILE 'tmp/orgjed.unl'      INTO TABLE orgjed      FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '#\r';
+LOAD DATA INFILE 'tmp/nastavnik.unl'   INTO TABLE nastavnik   FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '#\r';
+LOAD DATA INFILE 'tmp/pred.unl'        INTO TABLE pred        FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '#\r';
+LOAD DATA INFILE 'tmp/ispit.unl'       INTO TABLE ispit       FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '\r';
+LOAD DATA INFILE 'tmp/dvorana.unl'     INTO TABLE dvorana     FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '#\r';
+LOAD DATA INFILE 'tmp/rezervacija.unl' INTO TABLE rezervacija FIELDS TERMINATED BY '#' LINES STARTING BY '\n' TERMINATED BY '#\r';
