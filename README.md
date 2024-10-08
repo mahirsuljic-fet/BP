@@ -7,6 +7,7 @@ Baze podataka (BP)
 ## [Inicijalizacija glavne baze podataka](./Vjezbe/init/)
 
 ## [Literatura](./Literatura)
+- [An Introduction to Database Systems](./Literatura/An_Introduction_to_Database_Systems_-_C_J_Date_-_8th_Edition.pdf)
 - [Database Modeling and Design](./Literatura/Database_Modeling_and_Design_-_Toby_J._Teorey,_Sam_S._Lightstone,_Thomas_P._Nadeau_-_4th_Edition.pdf)
 - [Database Systems: The Complete Book](./Literatura/Database_Systems_The_Complete_Book_-_H._Garcia-Molina,_J._D._Ullman,_J._Widom.pdf)
 - [Database System Concepts (4th Edition)](./Literatura/Database_System_Concepts_-_A._Silberschatz,_H.F._Korth,_S._Sundarshan_-_4th_Edition.pdf)
