@@ -7,10 +7,10 @@ Baze podataka (BP)
 ## [Inicijalizacija glavne baze podataka](./Vjezbe/init/)
 
 ## [Literatura](./Literatura)
-- [Database Modeling and Design](./Literatura/Database\ Modeling\ and\ Design\ -\ Toby\ J.\ Teorey,\ Sam\ S.\ Lightstone,\ Thomas\ P.\ Nadeau\ -\ 4th\ Edition.pdf)
-- [Database Systems: The Complete Book](./Literatura/Database\ Systems\ The\ Complete\ Book\ -\ H.\ Garcia-Molina,\ J.\ D.\ Ullman,\ J.\ Widom.pdf)
-- [Database System Concepts (4th Edition)](./Literatura/Database\ System\ Concepts\ -\ A.\ Silberschatz,\ H.F.\ Korth,\ S.\ Sundarshan\ -\ 4th\ Edition.pdf)
-- [Database System Concepts (6th Edition)](./Literatura/Database\ System\ Concepts\ -\ A.\ Silberschatz,\ H.F.\ Korth,\ S.\ Sundarshan\ -\ 6th\ Edition.pdf)
+- [Database Modeling and Design](./Literatura/Database_Modeling_and_Design_-_Toby_J._Teorey,_Sam_S._Lightstone,_Thomas_P._Nadeau_-_4th_Edition.pdf)
+- [Database Systems: The Complete Book](./Literatura/Database_Systems_The_Complete_Book_-_H._Garcia-Molina,_J._D._Ullman,_J._Widom.pdf)
+- [Database System Concepts (4th Edition)](./Literatura/Database_System_Concepts_-_A._Silberschatz,_H.F._Korth,_S._Sundarshan_-_4th_Edition.pdf)
+- [Database System Concepts (6th Edition)](./Literatura/Database_System_Concepts_-_A._Silberschatz,_H.F._Korth,_S._Sundarshan_-_6th_Edition.pdf)
 
 ## [Predavanja](./Predavanja)
 Bilješke sa predavanja.
