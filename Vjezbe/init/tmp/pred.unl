@@ -1,0 +1,183 @@
+﻿
+305#MAT3#Matematika III#100002#17#2#
+304#MAT2#Matematika II#100002#6#2#
+288#INE03O6#Elektronička instrumentacija#100010#15#1#
+286#RALOTE#Radiolokacija i radiotelemetrija#100011#13#2#
+285#RADAR#Radari i radiokomunikacije#100011#2#3#
+284#ELSKLOP#Elektronički sklopovi#100010#10#4#
+282#EENMR1#Elektroenergetske mreže I#100005#5#2#
+278#EENMR3#Elektroenergetske mreže III#100005#5#2#
+273#OE#Osnove elektrotehnike#100003#2#\N#
+271#FOE#Fizikalne osnove elektrotehnike#100003#0#2#
+267#ZFI02O2#Fizika II#100001#2#3#
+266#ZFI01O1#Fizika I#100001#70#4#
+265#ELEL1#Elektronički elementi#100010#21#2#
+264#ELRAČ#Elektronička računala#100010#32#\N#
+262#STOMAT#Stohastička matematika#100002#20#1#
+260#OES#Osnove električkih strojeva#100004#0#\N#
+259#OPOMAT#Odabrana poglavlja matematike#100002#25#2#
+258#OPEF#Odabrana poglavlja energetske fizike#100001#1#3#
+256#NUMAT#Numerička matematika#100002#2#4#
+254#FIZ3#Fizika III#100001#0#2#
+253#ESIB#Energetski sistemi i bilance#100005#2#2#
+249#ELMJE#Elektronička mjerenja i komponente#100010#0#3#
+312#UNUF#Uvod u nuklearnu fiziku#100001#13#\N#
+36#TEHNO#Elektrotehnička tehnologija#100003#2#2#
+39#RASAKO#Radiorelejne i satelitske komunikacije#100011#6#3#
+43#ELAK#Elektroakustika#100009#0#4#
+47#MUE#Mjerenja u elektrotehnici#100003#0#2#
+53#ELTER#Elektrotermija#100001#1#1#
+56#GOMUAK#Govorna i muzička akustika#100009#2#3#
+57#INSKEE#Integrirani sklopovi energetske elektronike#100005#6#\N#
+58#KOELU#Komponente elektroničkih uređaja i mjerne metode#100010#3#\N#
+59#KVELUR#Kvaliteta elektroakustičkih uređaja#100009#0#3#
+68#PORAK#Pokretne radiokomunikacije#100011#5#4#
+70#PRAPO#Projektiranje radiofrekvencijskih pojačala#100011#2#2#
+71#PROAK#Prostorna akustika#100009#0#2#
+76#ULHID#Ultrazvuk i hidroakustika#100009#70#3#
+98#EKELS#Ekonomika elektroničkih sistema#100010#45#\N#
+101#ELSTR1#Električki strojevi I#100004#1#2#
+102#ELIZNA#Elektronički izvori napajanja#100010#5#3#
+103#ELKOS#Elektronički komutacijski sistemi#100010#10#4#
+106#FLASER#Fizika lasera#100001#2#1#
+107#FOSE#Fizikalne osnove spremanja energije#100001#70#2#
+143#OPES#Optimalni pogon elektroenergetskog sustava#100005#1#3#
+144#OETEM#Organizacija i eksploatacija telekomunikacijske mreže#100006#2#\N#
+146#ORAKOM#Osnove radiokomunikacija#100011#8#2#
+147#OELAK#Osnove elektroakustike#100009#0#3#
+374#ZRS17A2#Procesna mjerenja#100008#0#2#
+376#ZRS12A2#Otvoreno računarstvo#100008#0#3#
+382#ENE02O5#Električni strojevi i transformatori#100004#0#4#
+384#ZOM04O5#Teorijska elektrotehnika#100003#1#2#
+390#ESA07O6#Osnove čvrstoće i konstruiranja#100004#2#2#
+164#PIP#Projektiranje industrijskih postrojenja#100004#0#\N#
+167#PROTEM#Projektiranje telekomunikacijskih mreža#100006#18#1#
+174#RESE#Regulacija električkih strojeva u elektranama#100004#1#3#
+194#UNUF#Uvod u nuklearnu fiziku#100001#14#4#
+199#OSKLOP#Osnovni elektronički sklopovi#100010#0#2#
+207#TEMRE#Telekomunikacijske mreže#100006#0#2#
+232#SISTR#Sinkroni strojevi#100004#1#\N#
+234#PTEP#Prelaz topline u energ. postrojenjima#100004#2#\N#
+238#ELSKLOP#Elektronički sklopovi#100010#10#3#
+241#EINKO#Elektronička instrumentacija i konstrukcije#100010#9#4#
+307#ISKLOP#Integrirani elektronički sklopovi#100010#0#2#
+378#ZPM05A2#Matematičke osnove optimalnog upravljanja#100002#25#2#
+414#ZPM11O5#Programske paradigme i jezici#100002#2#3#
+419#ZPM02A1#Operacijska istraživanja#100002#10#1#
+425#ZPM01A1#Stohastički procesi#100002#70#2#
+525#ZPM03A1#Projektiranje informacijskih sustava#100002#10#3#
+583#ZPM04B1#Objektno orijentirano programiranje#100002#21#4#
+646#ZPM06A2#Projektiranje programske podrške#100002#29#2#
+342#NEP-K#Nuklearna energetska postrojenja - konstrukcijske vježbe#100004#0#2#
+343#ZPM01O1#Linearna algebra#100002#110#3#
+344#ZPM02O1#Matematička analiza I#100002#70#\N#
+345#ZOM01O1#Osnove elektrotehnike I#100003#1#2#
+346#ZPM03O1#Primjena računala#100002#17#3#
+347#ZPM04O2#Matematička analiza II#100002#0#4#
+348#ZOM02O2#Osnove elektrotehnike II#100003#3#\N#
+349#ZPM2002#Programiranje#100002#15#2#
+351#ZPM06O3#Matematička analiza III#100002#1#1#
+352#ZOM03O3#Mjerenja u elektrotehnici#100003#2#\N#
+353#ZSE01O3#Energetska elektrotehnika#100003#0#2#
+354#ZER3001#Elektronički elementi#100010#0#3#
+355#ZPM07O3#Algoritmi i strukture podataka#100002#5#4#
+356#ZPM4001#Stohastička i numerička matematika#100002#13#2#
+357#ZPM4002#Diskretna i stohastička matematika#100002#20#2#
+358#ZOM03O4#Mjerenja u elektrotehnici-praktikum#100003#0#3#
+361#ZRS01O4#Osnove digitalnih računala#100008#0#\N#
+362#ZER4002#Elektronički sklopovi#100010#40#2#
+367#ZFI03O5#Fizika materijala#100001#45#3#
+370#AUT6003#Elektronička instrumentacija i mjerenja#100010#17#4#
+371#ZER15A2#Složeni elektronički sklopovi#100010#8#2#
+372#ENE04O6#Osnove energetske elektronike#100005#18#1#
+373#ZRS11A2#Analiza osjetljivosti, sinteza i optimiranje sustava#100008#0#3#
+391#ESA5001#Osnove električnih strojeva i transformatora#100004#0#2#
+394#ESA6002#Kolektorski i elektronički komutirani motori#100004#1#\N#
+397#INE01O5#Elektronička mjerenja i komponente#100010#2#2#
+404#RKP03O5#Elektroakustika#100009#0#3#
+407#RKP09O7#Optoelektronički sklopovi#100010#70#4#
+410#TKI03O5#Telekomunikacijske mreže#100006#0#2#
+420#ENE6101#Energetski izvori#100005#9#2#
+429#ZPM09O4#Numerička matematika#100002#8#\N#
+430#AUT5002#Elektronička računala#100010#3#2#
+439#ZPM08O4#Stohastička matematika#100002#18#1#
+441#ZPM10O4#Diskretna matematika#100002#17#4#
+450#ENE01O5#Energetski procesi#100005#11#\N#
+452#ENE08O7#Elektroenergetske mreže#100005#0#2#
+453#ENE09O7#Numerička analiza elektroenergetskog sustava#100005#2#3#
+458#ENE14O8#Zaštita i automatika elektroenergetskog sustava#100005#5#\N#
+459#ENE15O8#Energetika i okoliš#100005#9#2#
+461#ESA04O6#Regulacijska tehnika#100004#2#3#
+464#ESA10O7#Elektromotorni pogoni#100004#0#4#
+465#ESA11O7#Upravljanje elektromotornim pogonima#100004#0#2#
+467#ESA13O8#Projektiranje industrijskih postrojenja#100004#0#2#
+468#ESA14O7#Razvod električne energije#100004#1#3#
+470#ESA16O9#Mehatronički sustavi#100004#2#\N#
+474#AUT06O6#Elektronička mjerenja i instrumentacija#100010#12#1#
+483#INE08O7#Mikroelektronički sklopovi#100010#0#3#
+490#RKP10O7#Elektroakustički signali i sustavi#100009#0#4#
+500#TKI11O8#Pouzdanost telekomunikacijskih sustava#100006#1#2#
+505#ZER07A1#Osnove mikroelektroničkih sklopova#100010#2#2#
+517#ZEA01A1#Ultrazvuk i hidroakustika#100009#70#3#
+528#ZRS16A2#Upravljanje, slijedni sustavi i senzori u robotici#100008#3#\N#
+529#FSB13A2#Regulacija u energetskim postrojenjima#100004#0#2#
+532#ZES15A1#Sklopni i zaštitni uređaji u postrojenjima#100004#1#3#
+535#ZES12A2#Projektiranje i konstruiranje u elektrostrojarstvu#100004#2#4#
+541#ZEN01A1#Pouzdanost elektroenergetskog sustava#100005#5#2#
+545#IHP10A2#Energetski izvori#100005#3#2#
+548#ZEN04A1#Ekonomika u energetici#100005#0#3#
+549#ZEN03A1#Numerički postupci u elektroenergetici#100005#5#1#
+576#ZEN09B1#Dinamika elektroenergetskog sustava#100005#8#2#
+580#ZRS01A1#Adaptivno i robusno upravljanje#100008#0#3#
+588#ZRS05B1#Inteligentno upravljanje sustavima#100008#0#4#
+589#ZRS09B1#Identifikacija procesa#100008#70#2#
+590#ZRS06B1#Automatizacija brodskih procesa#100008#1#2#
+594#ZES09B1#Elektronički pretvarači za elektromotorne pogone#100010#23#3#
+595#ESA15O8#Automatizirana ispitivanja elektrotehničkih uređaja#100004#0#\N#
+596#ZRS02A1#Alarmni sustavi#100008#5#2#
+604#ZES16A1#Sinkroni strojevi i uzbude#100004#0#3#
+605#ZRS07B1#Odabrana poglavlja iz programskog inženjerstva#100008#1#\N#
+607#ZVF11B1#Projektiranje radiofrekvencijskih pojačala#100011#20#3#
+611#ZRS03B1#Vođenje i upravljanje plovila#100008#1#4#
+609#ZVF04A1#Numerički postupci u radiokomunikacijama#100011#23#1#
+612#ZRS08B1#Realizacija upravljačkih algoritama i računalnih arhitektura#100008#0#2#
+610#ZRS10B1#Vođenje projekata automatike#100008#0#3#
+615#ZVF09B1#Tehnologija radiofrekvencijskih komponenata#100011#0#\N#
+621#TKI05B1#Razvoj telekomunikacijske programske podrške#100006#1#2#
+627#TKI08B1#Organizacija telekomunikacijske mreže#100006#2#3#
+628#TKI09B1#Informacijski sustav telekmunikacijske mreže#100006#0#4#
+643#ESA19O8#Razvoj elektrotehničkih proizvoda#100004#5#2#
+634#ZVF05A1#Radiotelemetrija#100011#0#2#
+636#ZEA03A1#Psihoakustika#100009#1#3#
+637#ZEA05A1#Govorna i glazbena akustika#100009#2#\N#
+641#ESA17O6#Električni strojevi#100004#70#2#
+642#ESA01O5#Elektromehanička i elektromagnetska pretvorba#100004#0#3#
+652#ZRS16A2#Fleksibilni proizvodni sustavi#100008#18#1#
+653#ZRS08B1#Realizacija algoritama i računalnih arhitektura#100008#1#2#
+654#Z0M03O3#Mjerenja u elektrotehnici#100003#2#2#
+656#ZPM06A2#Ergonomija računalne i programske opreme#100002#0#3#
+657#ZRS09B1#Identifikacija procesa#100008#70#\N#
+658#ZPM07A1#Osnove baza podataka#100002#15#2#
+662#ENE15O8#Energetika i okoliš#100005#1#3#
+669#ZOM03O3#Mjerenja u elektrotehnici#100003#2#4#
+301#EPROC#Energetski procesi#100005#2#2#
+37#EEL#Energetska elektronika#100005#6#2#
+104#EEL-IP#Energetska elektronika-izabrana poglavlja#100005#110#3#
+105#EEL#Energetska elektronika#100005#1#\N#
+392#ESA02O5#Energetska elektronika#100004#2#2#
+554#ESA02O5#Energetska elektronika#100004#18#1#
+169#RAKOM#Radiokomunikacije#100011#1#\N#
+515#ZVF01A1#Radiolokacija i navigacija#100011#10#2#
+99#EKONEN#Ekonomika u energetici#100005#21#2#
+181#STAEES#Stabilnost elektroenergetskih sistema#100005#2#3#
+209#ELENS#Elektroenergetski sistem#100005#10#\N#
+489#RKP08O7#Osnove radiokomunikacijskih sustava#100011#6#2#
+509#ZFI03A2#Fizika lasera#100001#0#3#
+166#ZPM06A2#Projektiranje programske podrške#100002#1#4#
+650#ZPM05O2#Programiranje#100002#17#2#
+303#MAT1#Matematika I#100002#6#3#
+277#TEOREL#Teoretska elektrotehnika#100003#1#1#
+162#PIESS#Projektiranje integriranih elektroničkih sklopova#100010#0#2#
+229#OEEN#Osnove elektroenergetike#100005#25#3#
+393#ESA03O5#Elektrotehnički materijali i tehnologija#100004#110#4#
+423#IRB01A1#Fizika poluvodiča#100001#11#2#

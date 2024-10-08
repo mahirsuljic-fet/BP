@@ -1,0 +1,816 @@
+435000#1Daruvar#7#
+435310#1Veliki Bastaji#7#
+440000#1Sisak#3#
+442710#1Letovaniæ#3#
+443200#1Kutina#3#
+443300#1Novska#3#
+444000#1Glina#3#
+444100#1Gvozd#3#
+470000#1Karlovac#4#
+472010#1Draganiæi#4#
+472200#1Vojniæ#4#
+472400#1Slunj#4#
+472510#1Bosiljevo#4#
+473000#1Ogulin#4#
+473020#1O¹tarije#4#
+480000#1Koprivnica#6#
+482600#1Kri¾evci#6#
+490000#1Krapina#2#
+100000#1Zagreb#21#
+100100#1Zagreb-Slobo¹tina#21#
+100900#1Zagreb-Susedgrad#21#
+103600#1Sesvete#1#
+103700#1Dugo Selo#1#
+103800#1Sveti Ivan Zelina#21#
+104300#1Samobor#1#
+104500#1Jastrebarsko#1#
+200000#1Dubrovnik#19#
+202100#1Cavtat#19#
+202300#1Ston#19#
+202420#1Oskoru¹no#19#
+202500#1Orebiæ#19#
+202700#1Vela Luka#19#
+203400#1Ploèe#19#
+210000#1Split#17#
+212100#1Solin#17#
+212320#1Dicmo#17#
+212400#1Trilj#17#
+212700#1Zagvozd#17#
+213100#1Omi¹#17#
+214000#1Supetar#17#
+214200#1Bol#17#
+214500#1Hvar#17#
+220000#1©ibenik#15#
+220100#1©ibenik-Brodarica#15#
+220200#1©ibenik-Ra¾ine#15#
+232100#1Biograd na moru#13#
+232500#1Pag#13#
+234200#1Benkovac#13#
+310000#1Osijek#14#
+313000#1Beli Manastir#14#
+313010#1Branjin Vrh#14#
+314100#1Strizivojna#14#
+315000#1Na¹ice#14#
+315300#1Podravska Moslavina#14#
+315310#1Viljevo#14#
+315500#1Valpovo#14#
+320000#1Vukovar#16#
+321000#1Vinkovci#16#
+322400#1Mirkovci#16#
+322800#1Jarmina#16#
+330000#1Virovitica#10#
+335200#1Slatina#10#
+340000#1Po¾ega#11#
+343100#1Pleternica#11#
+343300#1Velika#11#
+343400#1Kutjevo#11#
+345500#1Pakrac#11#
+350000#1Slavonski Brod#12#
+352100#1Vrpolje#12#
+352200#1Slavonski ©amac#12#
+352500#1Oriovac#12#
+354200#1Staro Petrovo Selo#12#
+400000#1Èakovec#20#
+403200#1Donji Kraljevec#20#
+420000#1Vara¾din#5#
+422400#1Ivanec#5#
+422500#1Lepoglava#5#
+430000#1Bjelovar#7#
+432710#1Velika Pisanica#7#
+432800#1Gare¹nica#7#
+492500#1Zlatar#2#
+512110#1Matulji#8#
+512510#1Ledenice#8#
+512800#1Rab#8#
+514100#1Opatija#8#
+515500#1Mali Lo¹inj#8#
+520000#1Pazin#18#
+521000#1Pula#18#
+524200#1Buzet#18#
+530000#1Gospiæ#9#
+532300#1Korenica#9#
+532500#1Donji Lapac#9#
+100200#1Zagreb-Novi Zagreb#21#
+100400#1Zagreb-Dubrava#21#
+102500#1Luèko#1#
+102550#1Gornji Stupnik#1#
+102900#1Zapre¹iæ#1#
+102950#1Kupljenovo#1#
+103100#1Ivaniæ-Grad#1#
+103150#1Novoselec#1#
+103400#1Vrbovec#1#
+103450#1Gradec#1#
+104100#1Velika Gorica#1#
+104150#1Novo Èièe#1#
+104350#1Sveti Martin pod Okiæem#1#
+104550#1Kostanjevac#1#
+202050#1Topolo#19#
+202150#1Gruda#19#
+202250#1Babino Polje#19#
+202350#1Zaton Veliki#19#
+202400#1Trpanj#19#
+202450#1Trstenik#19#
+202600#1Korèula#19#
+202750#1®rnovo#19#
+202900#1Lastovo#19#
+203450#1Sta¹evica#19#
+203500#1Metkoviæ#19#
+203550#1Opuzen#19#
+432900#1Grubi¹no Polje#7#
+492100#1Zabok#2#
+212050#1Donji Dolac#17#
+212150#1Ka¹tel Luk¹iæ#17#
+212200#1Trogir#17#
+212250#1Drvenik Veliki#17#
+212300#1Sinj#17#
+212350#1Oti¹iæ#17#
+212450#1Tijarica#17#
+212500#1©estanovac#17#
+212550#1Zadvarje#17#
+212600#1Imotski#17#
+212650#1Studenci#17#
+212750#1Dragljane#17#
+213000#1Makarska#17#
+213150#1Dugi Rat#17#
+213200#1Ba¹ka Voda#17#
+213250#1Tuèepi#17#
+213300#1Gradac#17#
+213350#1Podaca#17#
+214050#1Milna#17#
+214100#1Postira#17#
+214250#1Selca#17#
+214300#1Grohote#17#
+214600#1Stari Grad#17#
+214650#1Jelsa#17#
+214800#1Vis#17#
+214850#1Komi¾a#17#
+220300#1©ibenik-Zablaæe#15#
+222050#1Perkoviæ#15#
+222150#1Zaton#15#
+222350#1Kaprije#15#
+222400#1Tisno#15#
+223200#1Drni¹#15#
+230000#1Zadar#13#
+232050#1Bibinje#13#
+232350#1Vrsi#13#
+232450#1Tribanj#13#
+232750#1Ugljan#13#
+232850#1Brbinj#13#
+232950#1Silba#13#
+234400#1Graèac#13#
+234450#1Srb#13#
+234500#1Obrovac#13#
+312050#1Aljma¹#14#
+312150#1Ernestinovo#14#
+312250#1Breznica Na¹ièka#14#
+313050#1Dra¾#14#
+313150#1Karanac#14#
+313250#1Èeminac#14#
+314000#1Ðakovo#14#
+314150#1Selci Ðakovaèki#14#
+315400#1Donji Miholjac#14#
+315550#1Marijanci#14#
+322250#1Bobota#16#
+322350#1Bapska#16#
+322450#1Nijemci#16#
+322550#1Soljani#16#
+322600#1Gunja#16#
+322700#1®upanja#16#
+322750#1Bo¹njaci#16#
+334050#1Pitomaèa#10#
+334100#1Suhopolje#10#
+335150#1Orahovica#10#
+335250#1Sopje#10#
+343150#1Ratkovica#11#
+343200#1Orljavac#11#
+343350#1Vetovo#11#
+343500#1Èaglin#11#
+352150#1Svilaj#12#
+352550#1Slavonski Koba¹#12#
+354000#1Nova Gradi¹ka#12#
+354250#1Davor#12#
+354300#1Okuèani#12#
+354350#1Stara Gradi¹ka#12#
+403050#1Nedeli¹èe#20#
+403150#1Mursko Sredi¹èe#20#
+403250#1Dra¹kovec#20#
+422050#1Vidovec#5#
+422200#1Novi Marof#5#
+422250#1Breznièki Hum#5#
+422300#1Ludbreg#5#
+422450#1Donja Voæa#5#
+422550#1Donja Vi¹njica#5#
+432400#1Èazma#7#
+432450#1Gornji Draganec#7#
+432700#1Veliki Grðevac#7#
+432850#1Velika Trnovitica#7#
+435050#1Konèanica#7#
+442050#1Donja Baèuga#3#
+442100#1Sunja#3#
+442500#1Petrinja#3#
+443250#1Krapje#3#
+444050#1Mali Gradac#3#
+444150#1Topusko#3#
+444250#1Gornja Buèica#3#
+444300#1Hrvatska Kostajnica#3#
+444350#1Divu¹a#3#
+444400#1Dvor#3#
+444500#1Hrvatska Dubica#3#
+472050#1Vukmaniæ#4#
+472450#1Rakovica#4#
+472500#1Duga Resa#4#
+472800#1Ozalj#4#
+473050#1Lièka Jesenica#4#
+482650#1Raven#6#
+483050#1Reka#6#
+483250#1Novigrad Podravski#6#
+483500#1Ðurðevac#6#
+483550#1Novo Virje#6#
+492150#1Tuhelj#2#
+492250#1Ðurmanec#2#
+492400#1Donja Stubica#2#
+492450#1Gornja Stubica#2#
+492550#1Novi Golubovec#2#
+492900#1Klanjec#2#
+492950#1Kumrovec#2#
+512150#1Kastav#8#
+512250#1Praputnjak#8#
+512500#1Novi Vinodolski#8#
+512600#1Crikvenica#8#
+512650#1Dramalj#8#
+513000#1Delnice#8#
+513050#1Tr¹æe#8#
+513150#1Mrkopalj#8#
+513250#1Moravice#8#
+514150#1Lovran#8#
+515000#1Krk#8#
+515150#1©ilo#8#
+515550#1Belej#8#
+522100#1Rovinj (Rovigno)#18#
+522150#1Vodnjan (Dignano)#18#
+522200#1Labin#18#
+524250#1Roè#18#
+524400#1Poreè#18#
+524450#1Baderna#18#
+524500#1Vrsar#18#
+524600#1Buje (Buie)#18#
+524650#1Tar#18#
+524700#1Umag (Umago)#18#
+524750#1Savudrija (Salvore)#18#
+532050#1Medak#9#
+532200#1Otoèac#9#
+532250#1©vica#9#
+532600#1Brinje#9#
+532700#1Senj#9#
+532850#1Lukovo#9#
+312200#1Vi¹njevac#14#
+472850#1Radatoviæi#4#
+440100#1Sisak-Caprag#3#
+532350#1Buniæ#9#
+223100#1Kijevo#15#
+223050#1Kistanje#15#
+223000#1Knin#15#
+4350000#2Daruvar#7#
+4353100#2Veliki Bastaji#7#
+4400000#2Sisak#3#
+4427100#2Letovaniæ#3#
+4432000#2Kutina#3#
+4433000#2Novska#3#
+4440000#2Glina#3#
+4441000#2Gvozd#3#
+4700000#2Karlovac#4#
+4720100#2Draganiæi#4#
+4722000#2Vojniæ#4#
+4724000#2Slunj#4#
+4725100#2Bosiljevo#4#
+4730000#2Ogulin#4#
+4730200#2O¹tarije#4#
+4800000#2Koprivnica#6#
+4826000#2Kri¾evci#6#
+4900000#2Krapina#2#
+1000000#2Zagreb#21#
+1001000#2Zagreb-Slobo¹tina#21#
+1009000#2Zagreb-Susedgrad#21#
+1036000#2Sesvete#1#
+1037000#2Dugo Selo#1#
+1038000#2Sveti Ivan Zelina#21#
+1043000#2Samobor#1#
+1045000#2Jastrebarsko#1#
+2000000#2Dubrovnik#19#
+2021000#2Cavtat#19#
+2023000#2Ston#19#
+2024200#2Oskoru¹no#19#
+2025000#2Orebiæ#19#
+2027000#2Vela Luka#19#
+2034000#2Ploèe#19#
+2100000#2Split#17#
+2121000#2Solin#17#
+2123200#2Dicmo#17#
+2124000#2Trilj#17#
+2127000#2Zagvozd#17#
+2131000#2Omi¹#17#
+2140000#2Supetar#17#
+2142000#2Bol#17#
+2145000#2Hvar#17#
+2200000#2©ibenik#15#
+2201000#2©ibenik-Brodarica#15#
+2202000#2©ibenik-Ra¾ine#15#
+2321000#2Biograd na moru#13#
+2325000#2Pag#13#
+2342000#2Benkovac#13#
+3100000#2Osijek#14#
+3130000#2Beli Manastir#14#
+3130100#2Branjin Vrh#14#
+3141000#2Strizivojna#14#
+3150000#2Na¹ice#14#
+3153000#2Podravska Moslavina#14#
+3153100#2Viljevo#14#
+3155000#2Valpovo#14#
+3200000#2Vukovar#16#
+3210000#2Vinkovci#16#
+3224000#2Mirkovci#16#
+3228000#2Jarmina#16#
+3300000#2Virovitica#10#
+3352000#2Slatina#10#
+3400000#2Po¾ega#11#
+3431000#2Pleternica#11#
+3433000#2Velika#11#
+3434000#2Kutjevo#11#
+3455000#2Pakrac#11#
+3500000#2Slavonski Brod#12#
+3521000#2Vrpolje#12#
+3522000#2Slavonski ©amac#12#
+3525000#2Oriovac#12#
+3542000#2Staro Petrovo Selo#12#
+4000000#2Èakovec#20#
+4032000#2Donji Kraljevec#20#
+4200000#2Vara¾din#5#
+4224000#2Ivanec#5#
+4225000#2Lepoglava#5#
+4300000#2Bjelovar#7#
+4327100#2Velika Pisanica#7#
+4328000#2Gare¹nica#7#
+4329000#2Grubi¹no Polje#7#
+4921000#2Zabok#2#
+4925000#2Zlatar#2#
+5121100#2Matulji#8#
+5125100#2Ledenice#8#
+5128000#2Rab#8#
+5141000#2Opatija#8#
+5155000#2Mali Lo¹inj#8#
+5200000#2Pazin#18#
+5210000#2Pula#18#
+5242000#2Buzet#18#
+5300000#2Gospiæ#9#
+5323000#2Korenica#9#
+5325000#2Donji Lapac#9#
+1002000#2Zagreb-Novi Zagreb#21#
+1004000#2Zagreb-Dubrava#21#
+1025000#2Luèko#1#
+1025500#2Gornji Stupnik#1#
+1029000#2Zapre¹iæ#1#
+1029500#2Kupljenovo#1#
+1031000#2Ivaniæ-Grad#1#
+1031500#2Novoselec#1#
+1034000#2Vrbovec#1#
+1034500#2Gradec#1#
+1041000#2Velika Gorica#1#
+1041500#2Novo Èièe#1#
+1043500#2Sveti Martin pod Okiæem#1#
+1045500#2Kostanjevac#1#
+2020500#2Topolo#19#
+2021500#2Gruda#19#
+2022500#2Babino Polje#19#
+2023500#2Zaton Veliki#19#
+2024000#2Trpanj#19#
+2024500#2Trstenik#19#
+2026000#2Korèula#19#
+2027500#2®rnovo#19#
+2029000#2Lastovo#19#
+2034500#2Sta¹evica#19#
+2035000#2Metkoviæ#19#
+2035500#2Opuzen#19#
+2120500#2Donji Dolac#17#
+2121500#2Ka¹tel Luk¹iæ#17#
+2122000#2Trogir#17#
+2122500#2Drvenik Veliki#17#
+2123000#2Sinj#17#
+2123500#2Oti¹iæ#17#
+2124500#2Tijarica#17#
+2125000#2©estanovac#17#
+2125500#2Zadvarje#17#
+2126000#2Imotski#17#
+2126500#2Studenci#17#
+2127500#2Dragljane#17#
+2130000#2Makarska#17#
+2131500#2Dugi Rat#17#
+2132000#2Ba¹ka Voda#17#
+2132500#2Tuèepi#17#
+2133000#2Gradac#17#
+2133500#2Podaca#17#
+2140500#2Milna#17#
+2141000#2Postira#17#
+2142500#2Selca#17#
+2143000#2Grohote#17#
+2146000#2Stari Grad#17#
+2146500#2Jelsa#17#
+2148000#2Vis#17#
+2148500#2Komi¾a#17#
+2203000#2©ibenik-Zablaæe#15#
+2220500#2Perkoviæ#15#
+2221500#2Zaton#15#
+2223500#2Kaprije#15#
+2224000#2Tisno#15#
+2232000#2Drni¹#15#
+2300000#2Zadar#13#
+2320500#2Bibinje#13#
+2323500#2Vrsi#13#
+2324500#2Tribanj#13#
+2327500#2Ugljan#13#
+2328500#2Brbinj#13#
+2329500#2Silba#13#
+2344000#2Graèac#13#
+2344500#2Srb#13#
+2345000#2Obrovac#13#
+3120500#2Aljma¹#14#
+3121500#2Ernestinovo#14#
+3122500#2Breznica Na¹ièka#14#
+3130500#2Dra¾#14#
+3131500#2Karanac#14#
+3132500#2Èeminac#14#
+3140000#2Ðakovo#14#
+3141500#2Selci Ðakovaèki#14#
+3154000#2Donji Miholjac#14#
+3155500#2Marijanci#14#
+3222500#2Bobota#16#
+3223500#2Bapska#16#
+3224500#2Nijemci#16#
+3225500#2Soljani#16#
+3226000#2Gunja#16#
+3227000#2®upanja#16#
+3227500#2Bo¹njaci#16#
+3340500#2Pitomaèa#10#
+3341000#2Suhopolje#10#
+3351500#2Orahovica#10#
+3352500#2Sopje#10#
+3431500#2Ratkovica#11#
+3432000#2Orljavac#11#
+3433500#2Vetovo#11#
+3435000#2Èaglin#11#
+3521500#2Svilaj#12#
+3525500#2Slavonski Koba¹#12#
+3540000#2Nova Gradi¹ka#12#
+3542500#2Davor#12#
+3543000#2Okuèani#12#
+3543500#2Stara Gradi¹ka#12#
+4030500#2Nedeli¹èe#20#
+4031500#2Mursko Sredi¹èe#20#
+4032500#2Dra¹kovec#20#
+4220500#2Vidovec#5#
+4222000#2Novi Marof#5#
+4222500#2Breznièki Hum#5#
+4223000#2Ludbreg#5#
+4224500#2Donja Voæa#5#
+4225500#2Donja Vi¹njica#5#
+4324000#2Èazma#7#
+4324500#2Gornji Draganec#7#
+4327000#2Veliki Grðevac#7#
+4328500#2Velika Trnovitica#7#
+4350500#2Konèanica#7#
+4420500#2Donja Baèuga#3#
+4421000#2Sunja#3#
+4425000#2Petrinja#3#
+4432500#2Krapje#3#
+4440500#2Mali Gradac#3#
+4441500#2Topusko#3#
+4442500#2Gornja Buèica#3#
+4443000#2Hrvatska Kostajnica#3#
+4443500#2Divu¹a#3#
+4444000#2Dvor#3#
+4445000#2Hrvatska Dubica#3#
+4720500#2Vukmaniæ#4#
+4724500#2Rakovica#4#
+4725000#2Duga Resa#4#
+4728000#2Ozalj#4#
+4730500#2Lièka Jesenica#4#
+4826500#2Raven#6#
+4830500#2Reka#6#
+4832500#2Novigrad Podravski#6#
+4835000#2Ðurðevac#6#
+4835500#2Novo Virje#6#
+4921500#2Tuhelj#2#
+4922500#2Ðurmanec#2#
+4924000#2Donja Stubica#2#
+4924500#2Gornja Stubica#2#
+4925500#2Novi Golubovec#2#
+4929000#2Klanjec#2#
+4929500#2Kumrovec#2#
+5121500#2Kastav#8#
+5122500#2Praputnjak#8#
+5125000#2Novi Vinodolski#8#
+5126000#2Crikvenica#8#
+5126500#2Dramalj#8#
+5130000#2Delnice#8#
+5130500#2Tr¹æe#8#
+5131500#2Mrkopalj#8#
+5132500#2Moravice#8#
+5141500#2Lovran#8#
+5150000#2Krk#8#
+5151500#2©ilo#8#
+5155500#2Belej#8#
+5221000#2Rovinj (Rovigno)#18#
+5221500#2Vodnjan (Dignano)#18#
+5222000#2Labin#18#
+5242500#2Roè#18#
+5244000#2Poreè#18#
+5244500#2Baderna#18#
+5245000#2Vrsar#18#
+5246000#2Buje (Buie)#18#
+5246500#2Tar#18#
+5247000#2Umag (Umago)#18#
+5247500#2Savudrija (Salvore)#18#
+5320500#2Medak#9#
+5322000#2Otoèac#9#
+5322500#2©vica#9#
+5326000#2Brinje#9#
+5327000#2Senj#9#
+5328500#2Lukovo#9#
+3122000#2Vi¹njevac#14#
+4728500#2Radatoviæi#4#
+4401000#2Sisak-Caprag#3#
+5323500#2Buniæ#9#
+2231000#2Kijevo#15#
+2230500#2Kistanje#15#
+2230000#2Knin#15#
+43500000#3Daruvar#7#
+43531000#3Veliki Bastaji#7#
+44000000#3Sisak#3#
+44271000#3Letovaniæ#3#
+44320000#3Kutina#3#
+44330000#3Novska#3#
+44400000#3Glina#3#
+44410000#3Gvozd#3#
+47000000#3Karlovac#4#
+47201000#3Draganiæi#4#
+47220000#3Vojniæ#4#
+47240000#3Slunj#4#
+47251000#3Bosiljevo#4#
+47300000#3Ogulin#4#
+47302000#3O¹tarije#4#
+48000000#3Koprivnica#6#
+48260000#3Kri¾evci#6#
+49000000#3Krapina#2#
+10000000#3Zagreb#21#
+10010000#3Zagreb-Slobo¹tina#21#
+10090000#3Zagreb-Susedgrad#21#
+10360000#3Sesvete#1#
+10370000#3Dugo Selo#1#
+10380000#3Sveti Ivan Zelina#21#
+10430000#3Samobor#1#
+10450000#3Jastrebarsko#1#
+20000000#3Dubrovnik#19#
+20210000#3Cavtat#19#
+20230000#3Ston#19#
+20242000#3Oskoru¹no#19#
+20250000#3Orebiæ#19#
+20270000#3Vela Luka#19#
+20340000#3Ploèe#19#
+21000000#3Split#17#
+21210000#3Solin#17#
+21232000#3Dicmo#17#
+21240000#3Trilj#17#
+21270000#3Zagvozd#17#
+21310000#3Omi¹#17#
+21400000#3Supetar#17#
+21420000#3Bol#17#
+21450000#3Hvar#17#
+22000000#3©ibenik#15#
+22010000#3©ibenik-Brodarica#15#
+22020000#3©ibenik-Ra¾ine#15#
+23210000#3Biograd na moru#13#
+23250000#3Pag#13#
+23420000#3Benkovac#13#
+31000000#3Osijek#14#
+31300000#3Beli Manastir#14#
+31301000#3Branjin Vrh#14#
+31410000#3Strizivojna#14#
+31500000#3Na¹ice#14#
+31530000#3Podravska Moslavina#14#
+31531000#3Viljevo#14#
+31550000#3Valpovo#14#
+32000000#3Vukovar#16#
+32100000#3Vinkovci#16#
+32240000#3Mirkovci#16#
+32280000#3Jarmina#16#
+33000000#3Virovitica#10#
+33520000#3Slatina#10#
+34000000#3Po¾ega#11#
+34310000#3Pleternica#11#
+34330000#3Velika#11#
+34340000#3Kutjevo#11#
+34550000#3Pakrac#11#
+35000000#3Slavonski Brod#12#
+35210000#3Vrpolje#12#
+35220000#3Slavonski ©amac#12#
+35250000#3Oriovac#12#
+35420000#3Staro Petrovo Selo#12#
+40000000#3Èakovec#20#
+40320000#3Donji Kraljevec#20#
+42000000#3Vara¾din#5#
+42240000#3Ivanec#5#
+42250000#3Lepoglava#5#
+43000000#3Bjelovar#7#
+43271000#3Velika Pisanica#7#
+43280000#3Gare¹nica#7#
+43290000#3Grubi¹no Polje#7#
+49210000#3Zabok#2#
+49250000#3Zlatar#2#
+51211000#3Matulji#8#
+51251000#3Ledenice#8#
+51280000#3Rab#8#
+51410000#3Opatija#8#
+51550000#3Mali Lo¹inj#8#
+52000000#3Pazin#18#
+52100000#3Pula#18#
+52420000#3Buzet#18#
+53000000#3Gospiæ#9#
+53230000#3Korenica#9#
+53250000#3Donji Lapac#9#
+10020000#3Zagreb-Novi Zagreb#21#
+10040000#3Zagreb-Dubrava#21#
+10250000#3Luèko#1#
+10255000#3Gornji Stupnik#1#
+10290000#3Zapre¹iæ#1#
+10295000#3Kupljenovo#1#
+10310000#3Ivaniæ-Grad#1#
+10315000#3Novoselec#1#
+10340000#3Vrbovec#1#
+10345000#3Gradec#1#
+10410000#3Velika Gorica#1#
+10415000#3Novo Èièe#1#
+10435000#3Sveti Martin pod Okiæem#1#
+10455000#3Kostanjevac#1#
+20205000#3Topolo#19#
+20215000#3Gruda#19#
+20225000#3Babino Polje#19#
+20235000#3Zaton Veliki#19#
+20240000#3Trpanj#19#
+20245000#3Trstenik#19#
+20260000#3Korèula#19#
+20275000#3®rnovo#19#
+20290000#3Lastovo#19#
+20345000#3Sta¹evica#19#
+20350000#3Metkoviæ#19#
+20355000#3Opuzen#19#
+21205000#3Donji Dolac#17#
+21215000#3Ka¹tel Luk¹iæ#17#
+21220000#3Trogir#17#
+21225000#3Drvenik Veliki#17#
+21230000#3Sinj#17#
+21235000#3Oti¹iæ#17#
+21245000#3Tijarica#17#
+21250000#3©estanovac#17#
+21255000#3Zadvarje#17#
+21260000#3Imotski#17#
+21265000#3Studenci#17#
+21275000#3Dragljane#17#
+21300000#3Makarska#17#
+21315000#3Dugi Rat#17#
+21320000#3Ba¹ka Voda#17#
+21325000#3Tuèepi#17#
+21330000#3Gradac#17#
+21335000#3Podaca#17#
+21405000#3Milna#17#
+21410000#3Postira#17#
+21425000#3Selca#17#
+21430000#3Grohote#17#
+21460000#3Stari Grad#17#
+21465000#3Jelsa#17#
+21480000#3Vis#17#
+21485000#3Komi¾a#17#
+22030000#3©ibenik-Zablaæe#15#
+22205000#3Perkoviæ#15#
+22215000#3Zaton#15#
+22235000#3Kaprije#15#
+22240000#3Tisno#15#
+22320000#3Drni¹#15#
+23000000#3Zadar#13#
+23205000#3Bibinje#13#
+23235000#3Vrsi#13#
+23245000#3Tribanj#13#
+23275000#3Ugljan#13#
+23285000#3Brbinj#13#
+23295000#3Silba#13#
+23440000#3Graèac#13#
+23445000#3Srb#13#
+23450000#3Obrovac#13#
+31205000#3Aljma¹#14#
+31215000#3Ernestinovo#14#
+31225000#3Breznica Na¹ièka#14#
+31305000#3Dra¾#14#
+31315000#3Karanac#14#
+31325000#3Èeminac#14#
+31400000#3Ðakovo#14#
+31415000#3Selci Ðakovaèki#14#
+31540000#3Donji Miholjac#14#
+31555000#3Marijanci#14#
+32225000#3Bobota#16#
+32235000#3Bapska#16#
+32245000#3Nijemci#16#
+32255000#3Soljani#16#
+32260000#3Gunja#16#
+32270000#3®upanja#16#
+32275000#3Bo¹njaci#16#
+33405000#3Pitomaèa#10#
+33410000#3Suhopolje#10#
+33515000#3Orahovica#10#
+33525000#3Sopje#10#
+34315000#3Ratkovica#11#
+34320000#3Orljavac#11#
+34335000#3Vetovo#11#
+34350000#3Èaglin#11#
+35215000#3Svilaj#12#
+35255000#3Slavonski Koba¹#12#
+35400000#3Nova Gradi¹ka#12#
+35425000#3Davor#12#
+35430000#3Okuèani#12#
+35435000#3Stara Gradi¹ka#12#
+40305000#3Nedeli¹èe#20#
+40315000#3Mursko Sredi¹èe#20#
+40325000#3Dra¹kovec#20#
+42205000#3Vidovec#5#
+42220000#3Novi Marof#5#
+42225000#3Breznièki Hum#5#
+42230000#3Ludbreg#5#
+42245000#3Donja Voæa#5#
+42255000#3Donja Vi¹njica#5#
+43240000#3Èazma#7#
+43245000#3Gornji Draganec#7#
+43270000#3Veliki Grðevac#7#
+43285000#3Velika Trnovitica#7#
+43505000#3Konèanica#7#
+44205000#3Donja Baèuga#3#
+44210000#3Sunja#3#
+44250000#3Petrinja#3#
+44325000#3Krapje#3#
+44405000#3Mali Gradac#3#
+44415000#3Topusko#3#
+44425000#3Gornja Buèica#3#
+44430000#3Hrvatska Kostajnica#3#
+44435000#3Divu¹a#3#
+44440000#3Dvor#3#
+44450000#3Hrvatska Dubica#3#
+47205000#3Vukmaniæ#4#
+47245000#3Rakovica#4#
+47250000#3Duga Resa#4#
+47280000#3Ozalj#4#
+47305000#3Lièka Jesenica#4#
+48265000#3Raven#6#
+48305000#3Reka#6#
+48325000#3Novigrad Podravski#6#
+48350000#3Ðurðevac#6#
+48355000#3Novo Virje#6#
+49215000#3Tuhelj#2#
+49225000#3Ðurmanec#2#
+49240000#3Donja Stubica#2#
+49245000#3Gornja Stubica#2#
+49255000#3Novi Golubovec#2#
+49290000#3Klanjec#2#
+49295000#3Kumrovec#2#
+51215000#3Kastav#8#
+51225000#3Praputnjak#8#
+51250000#3Novi Vinodolski#8#
+51260000#3Crikvenica#8#
+51265000#3Dramalj#8#
+51300000#3Delnice#8#
+51305000#3Tr¹æe#8#
+51315000#3Mrkopalj#8#
+51325000#3Moravice#8#
+51415000#3Lovran#8#
+51500000#3Krk#8#
+51515000#3©ilo#8#
+51555000#3Belej#8#
+52210000#3Rovinj (Rovigno)#18#
+52215000#3Vodnjan (Dignano)#18#
+52220000#3Labin#18#
+52425000#3Roè#18#
+52440000#3Poreè#18#
+52445000#3Baderna#18#
+52450000#3Vrsar#18#
+52460000#3Buje (Buie)#18#
+52465000#3Tar#18#
+52470000#3Umag (Umago)#18#
+52475000#3Savudrija (Salvore)#18#
+53205000#3Medak#9#
+53220000#3Otoèac#9#
+53225000#3©vica#9#
+53260000#3Brinje#9#
+53270000#3Senj#9#
+53285000#3Lukovo#9#
+31220000#3Vi¹njevac#14#
+47285000#3Radatoviæi#4#
+44010000#3Sisak-Caprag#3#
+53235000#3Buniæ#9#
+22310000#3Kijevo#15#
+22305000#3Kistanje#15#
+22300000#3Knin#15#
