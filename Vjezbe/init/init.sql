@@ -1,6 +1,6 @@
-CREATE DATABASE stusluMaSu CHARACTER SET = 'utf8' COLLATE = 'utf8_croatian_ci';
+CREATE DATABASE stusluMaSu CHARACTER SET = 'utf8' COLLATE = 'utf8_croatian_ci'; -- IZMIJENITI IME BAZE PODATAKA
 
-USE stusluMaSu;
+USE stusluMaSu; -- IZMIJENITI IME BAZE PODATAKA
 
 CREATE TABLE zupanija (
     sifZupanija SMALLINT NOT NULL,
