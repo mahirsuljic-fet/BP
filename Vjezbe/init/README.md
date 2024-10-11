@@ -1,1 +1,1 @@
-Za inicijalizaciju glavne baze podataka izvršiti komandu `. ./init.sh Ime Prezime` unutar ove direktorije (bitno je da se na mjestu izvršavanja komande nalaze fajl `init.sh`, direktorija `fetdata` i svi .unl fajlovi unutar nje).
+Za inicijalizaciju glavne baze podataka izvršiti komandu `. ./init.sh Ime Prezime` unutar ove direktorije (bitno je da se na mjestu izvršavanja komande nalaze fajlovi `init.sh` i `init.sql`, direktorija `fetdata` i svi .unl fajlovi unutar nje).
