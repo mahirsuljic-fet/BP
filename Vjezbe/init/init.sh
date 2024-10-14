@@ -24,6 +24,7 @@ then
     sudo sed -i "/secure_file_priv=\/var\/lib\/mysql-files\//d" $file
   fi
 
+  sudo mkdir -p /var/lib/mysql-files/
   sudo cp ./fetdata/* /var/lib/mysql-files/
   sed -i "0,/IZMIJENI/s//${1:0:2}${2:0:2}/" init.sql
   sed -i "0,/IZMIJENI/s//${1:0:2}${2:0:2}/" init.sql
