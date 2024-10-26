@@ -1,5 +1,6 @@
 -- zadatak 1
 SELECT DISTINCT sifZupanija FROM mjesto WHERE nazMjesto LIKE 'Z%';
+SELECT DISTINCT sifZupanija FROM mjesto WHERE nazMjesto RLIKE '^Z';
 
 -- zadatak 2
 SELECT * FROM stud 
@@ -11,16 +12,16 @@ SELECT * FROM stud WHERE datRodStud BETWEEN '1982-05-01' AND '1982-09-01' AND pr
 
 -- zadatak 4
 SELECT nazMjesto FROM mjesto WHERE
-(nazMjesto LIKE 'A%' OR
-nazMjesto LIKE 'E%' OR
-nazMjesto LIKE 'I%' OR
-nazMjesto LIKE 'O%' OR
-nazMjesto LIKE 'U%') AND
-(nazMjesto LIKE '%a' OR
-nazMjesto LIKE '%e' OR
-nazMjesto LIKE '%i' OR
-nazMjesto LIKE '%o' OR
-nazMjesto LIKE '%u');
+(nazMjesto LIKE 'A%'  OR
+ nazMjesto LIKE 'E%'  OR
+ nazMjesto LIKE 'I%'  OR
+ nazMjesto LIKE 'O%'  OR
+ nazMjesto LIKE 'U%') AND
+(nazMjesto LIKE '%a'  OR
+ nazMjesto LIKE '%e'  OR
+ nazMjesto LIKE '%i'  OR
+ nazMjesto LIKE '%o'  OR
+ nazMjesto LIKE '%u');
 
 -- zadatak 5
 SELECT nazMjesto FROM mjesto WHERE nazMjesto RLIKE '^[^AEIOU]' AND nazMjesto RLIKE '[^aeiou]$';
