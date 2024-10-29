@@ -149,7 +149,7 @@ SELECT
     stud2.imeStud  AS imeStud2,
     stud2.prezStud AS prezStud2
 FROM stud stud1
-JOIN stud stud2
+JOIN stud stud2 ON stud1.mbrStud <> stud2.mbrStud
 WHERE   stud1.imeStud  LIKE 'K%'
     AND stud1.prezStud LIKE 'K%'
     AND stud2.imeStud  LIKE 'K%'
