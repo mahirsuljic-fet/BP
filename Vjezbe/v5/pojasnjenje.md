@@ -3,7 +3,7 @@
 **r - relacija** (sadrzaj tabele)
 
 **R(A, B, C, ...) - relacijska shema** \
-spisak atributa tabele (ono sto vidis na vrhu tabele kad je otvoris), gdje su A, B, C, ... atrubuti (kolone) relacijske sheme (npr. mbrStud)
+Spisak atributa tabele (ono sto vidis na vrhu tabele kad je otvoris), gdje su `A, B, C, ...` atrubuti (kolone) relacijske sheme (npr. mbrStud)
 
 **π<sub>A,B,C,...</sub>\(r\) - projekcija** r po atrubutima A,B,C,... \
 uzmi kolone A,B,C,... iz r pri cemu ni jedna n-torka (red) ne smije biti ista \

@@ -44,12 +44,29 @@ FROM stud
 WHERE datRodStud <= DATE_ADD((SELECT MAX(datRodStud) FROM stud), INTERVAL -200 DAY);
 
 -- zadatak 6
+-- 1. nacin
+SELECT *
+FROM pred
+INNER JOIN nastavnik ON nastavnik.sifOrgJed = pred.sifOrgJed
+WHERE nastavnik.prezNastavnik LIKE "O%";
+
+-- 2. nacin
 SELECT pred.*
 FROM pred
 WHERE sifOrgJed IN (
     SELECT sifOrgJed
     FROM nastavnik
     WHERE prezNastavnik LIKE "O%"
+);
+
+-- 3. nacin
+SELECT pred.*
+FROM pred
+WHERE EXISTS (
+    SELECT sifOrgJed
+    FROM nastavnik
+    WHERE prezNastavnik LIKE "O%"
+        AND pred.sifOrgJed = nastavnik.sifOrgJed
 );
 
 -- zadatak 7
