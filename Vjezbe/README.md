@@ -1,0 +1,7 @@
+### [Vježbe 1 - Sintaksa i osnove SQL-a](./v1/aud1.pdf)
+### [Vježbe 2 - Jednostavni select upiti](./v2/aud2.pdf)
+### [Vježbe 3 - Agregatne funkcije](./v3/aud3.pdf)
+### [Vježbe 4 - Spajanje relacija](./v4/aud4.pdf)
+### [Vježbe 5 - Podupiti](./v5/aud5.pdf)
+### [Vježbe 6 - Grupisanje rezultata](./v6/aud6.pdf)
+### [Vježbe 7 - INSERT, UPDATE, DELETE naredbe](./v7/aud7.pdf)
