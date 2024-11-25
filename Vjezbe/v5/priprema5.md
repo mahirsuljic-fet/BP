@@ -1,9 +1,12 @@
--- zadatak 1
+## Zadatak 1
+```
 SELECT stud.*
 FROM stud
 WHERE stud.mbrStud NOT IN (SELECT mbrStud FROM ispit WHERE ocjena = 1);
+```
 
--- zadatak 2
+## Zadatak 2
+```
 SELECT mjesto.nazMjesto
 FROM mjesto
 JOIN nastavnik ON mjesto.pbr = nastavnik.pbrStan
@@ -13,8 +16,10 @@ WHERE mjesto.pbr NOT IN (
     JOIN mjesto 
     ON stud.pbrStan = mjesto.pbr
 );
+```
 
--- zadatak 3
+## Zadatak 3
+```
 SELECT DISTINCT zupanija.nazZupanija
 FROM zupanija
 JOIN mjesto ON zupanija.sifZupanija = mjesto.sifZupanija
@@ -25,8 +30,10 @@ WHERE zupanija.sifZupanija NOT IN (
     JOIN mjesto ON zupanija.sifZupanija = mjesto.sifZupanija
     JOIN stud   ON stud.pbrStan = mjesto.pbr
 );
+```
 
--- zadatak 4
+## Zadatak 4
+```
 SELECT sifNastavnik, imeNastavnik, prezNastavnik
 FROM nastavnik
 WHERE sifNastavnik NOT IN (
@@ -37,13 +44,17 @@ WHERE sifNastavnik NOT IN (
         YEAR(datIspit) = YEAR(CURRENT_DATE()) AND
         MONTH(datIspit) IN (1, 2)
 );
+```
 
--- zadatak 5
+## Zadatak 5
+```
 SELECT imeStud, prezStud, datRodStud
 FROM stud
 WHERE datRodStud <= DATE_ADD((SELECT MAX(datRodStud) FROM stud), INTERVAL -200 DAY);
+```
 
--- zadatak 6
+## Zadatak 6
+```
 -- 1. nacin
 SELECT *
 FROM pred
@@ -68,8 +79,10 @@ WHERE EXISTS (
     WHERE prezNastavnik LIKE "O%"
         AND pred.sifOrgJed = nastavnik.sifOrgJed
 );
+```
 
--- zadatak 7
+## Zadatak 7
+```
 SELECT oznDvorana, kapacitet
 FROM dvorana
 WHERE kapacitet > (
@@ -77,8 +90,10 @@ WHERE kapacitet > (
     FROM rezervacija
     WHERE rezervacija.oznDvorana = dvorana.oznDvorana
 );
+```
 
--- zadatak 8
+## Zadatak 8
+```
 SELECT *
 FROM nastavnik
 JOIN mjesto ON nastavnik.pbrStan = mjesto.pbr
@@ -89,8 +104,10 @@ WHERE koef < (
     WHERE mjesto.sifZupanija = mjestoSub.sifZupanija
     AND nastavnik.sifNastavnik <> nastavnikSub.sifNastavnik
 );
+```
 
--- zadatak 9
+## Zadatak 9
+```
 SELECT mbrStud, imeStud, prezStud
 FROM stud
 WHERE mbrStud NOT IN (
@@ -99,8 +116,10 @@ WHERE mbrStud NOT IN (
     JOIN ispit ON stud.mbrStud = ispit.mbrStud
     WHERE WEEKDAY(datRodStud) = WEEKDAY(datIspit)
 );
+```
 
--- zadatak 10
+## Zadatak 10
+```
 SELECT sifNastavnik, imeNastavnik, prezNastavnik
 FROM nastavnik
 JOIN mjesto   ON nastavnik.pbrStan = mjesto.pbr
@@ -115,8 +134,10 @@ WHERE
         WHERE zupanija.nazZupanija = 'Splitsko-dalmatinska'
             AND nastavnik.koef > nastavnikSub.koef
     );
+```
 
--- zadatak 11
+## Zadatak 11
+```
 SELECT stud.mbrStud, stud.imeStud, stud.prezStud
 FROM stud
 JOIN ispit ON stud.mbrStud = ispit.mbrStud
@@ -130,8 +151,10 @@ WHERE
             ispit.mbrStud <> ispitSub.mbrStud AND
             ispit.sifNastavnik = ispitSub.sifNastavnik
     );
+```
 
--- zadatak 12
+## Zadatak 12
+```
 CREATE TABLE r1(
     A CHAR(1),
     B CHAR(1),
@@ -164,40 +187,48 @@ INSERT INTO r3 VALUES('b', 'c', 5,  'f');
 INSERT INTO r3 VALUES('m', 'k', 7,  'g');
 INSERT INTO r3 VALUES('m', 'n', 9,  'e');
 INSERT INTO r3 VALUES('m', 'k', 11, 'g');
+```
 
+### a)
+Rezultat:
+| B | C |
+|:-:|:-:|
+| b | c |
+| m | k |
 
--- a)
-
--- Rezultat:
--- b, c
--- m, k
-
+```
 SELECT DISTINCT r1.B, r1.C
 FROM r1
 JOIN r3 
     ON  r1.B = r3.B
     AND r1.C = r3.C;
+```
 
 
--- b)
+### b)
+Rezultat:
+| B |
+|:-:|
+| d |
+| e |
 
--- Rezultat:
--- d
--- e
-
+```
 SELECT DISTINCT r1.B
 FROM r1
 WHERE r1.B NOT IN (
     SELECT DISTINCT r3.B
     FROM r3
 );
+```
 
 
--- c)
+### c)
+Rezultat:
+| E |
+|:-:|
+| f |
 
--- Rezultat:
--- f
-
+```
 SELECT DISTINCT r2.E
 FROM r2
 JOIN r3 ON
@@ -208,24 +239,27 @@ WHERE r2.E NOT IN (
     FROM r3
     WHERE D > 7
 );
+```
 
--- d)
+### d)
+Rezultat:
+| A | B | C | D | E |
+|:-:|:-:|:-:|:-:|:-:|
+| a | m | k | 5 | f |
+| a | e | m | 5 | f |
+| a | d | k | 5 | f |
+| a | e | m | 7 | g |
+| a | d | k | 7 | g |
+| a | b | c | 7 | g |
+| a | m | k | 11| e |
+| a | e | m | 11| e |
+| a | d | k | 11| e |
+| a | b | c | 11| e |
+| a | e | m | 11| g |
+| a | d | k | 11| g |
+| a | b | c | 11| g |
 
--- Rezultat:
--- a, m, k, 5,  f
--- a, e, m, 5,  f
--- a, d, k, 5,  f
--- a, e, m, 7,  g
--- a, d, k, 7,  g
--- a, b, c, 7,  g
--- a, m, k, 11, e
--- a, e, m, 11, e
--- a, d, k, 11, e
--- a, b, c, 11, e
--- a, e, m, 11, g
--- a, d, k, 11, g
--- a, b, c, 11, g
-
+```
 SELECT DISTINCT *
 FROM r1 CROSS JOIN r2
 WHERE NOT EXISTS (
@@ -241,13 +275,15 @@ WHERE NOT EXISTS (
         r2.D = r3.D AND
         r2.E = r3.E
 );
+```
 
+### e)
+Rezultat:
+| B | C |
+|:-:|:-:|
+| m | k |
 
--- e)
-
--- Rezultat:
--- m, k
-
+```
 SELECT DISTINCT r1.B, r1.C
 FROM r1
 WHERE
@@ -260,3 +296,4 @@ WHERE
             r2.D = r3.D AND
             r2.E = r3.E
     );
+```
