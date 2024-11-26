@@ -1,7 +1,6 @@
 ## Zadatak 1
 ```
-CREATE UNIQUE INDEX uniquePredmet
-ON pred (nazPred, sifOrgjed);
+CREATE UNIQUE INDEX uniquePredmet ON pred (nazPred, sifOrgjed);
 
 SELECT *
 FROM pred pred1
