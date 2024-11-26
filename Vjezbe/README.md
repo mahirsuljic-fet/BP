@@ -7,3 +7,4 @@
 |  5  | Podupiti                       | [aud5.pdf](./v5/aud5.pdf) | [priprema5.pdf](./v5/priprema5.pdf) | [rjesenja5.pdf](./v5/rjesenja5.pdf) | [priprema5.md](./v5/priprema5.md) |
 |  6  | Grupisanje rezultata           | [aud6.pdf](./v6/aud6.pdf) | [priprema6.pdf](./v6/priprema6.pdf) | [rjesenja6.pdf](./v6/rjesenja6.pdf) | [priprema6.md](./v6/priprema6.md) |
 |  7  | INSERT, UPDATE, DELETE naredbe | [aud7.pdf](./v7/aud7.pdf) | [priprema7.pdf](./v7/priprema7.pdf) | [rjesenja7.pdf](./v7/rjesenja7.pdf) | [priprema7.md](./v7/priprema7.md) |
+|  8  | NULL vrijednosti               | [aud8.pdf](./v8/aud8.pdf) | [priprema8.pdf](./v8/priprema8.pdf) | [rjesenja8.pdf](./v8/rjesenja8.pdf) | [priprema8.md](./v8/priprema8.md) |
