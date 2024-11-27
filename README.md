@@ -9,9 +9,6 @@ Baze podataka (BP)
 - [Database System Concepts (4th Edition)](./Literatura/Database_System_Concepts--4th_Edition.pdf)
 - [Database System Concepts (6th Edition)](./Literatura/Database_System_Concepts--6th_Edition.pdf)
 
-## [Predavanja](./Predavanja)
-Bilješke sa predavanja.
-
 ## [Prezentacije](./Prezentacije)
 Profesorove prezentacije iz predmeta.
 
