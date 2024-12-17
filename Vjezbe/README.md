@@ -11,3 +11,5 @@
 |  9   | Ne znam, umoran sam            | [aud9.pdf](./v9/aud9.pdf)    | [priprema9.pdf](./v9/priprema9.pdf)    | [rjesenja9.pdf](./v9/rjesenja9.pdf)    | ~[priprema9.md](./v9/priprema9.md)~    |
 |  10  | Apel za pomoć                  | [aud10.pdf](./v10/aud10.pdf) | [priprema10.pdf](./v10/priprema10.pdf) | [rjesenja10.pdf](./v10/rjesenja10.pdf) | ~[priprema10.md](./v10/priprema10.md)~ |
 |  11  | Nema pomoći                    | ~[aud11.pdf](./v11/aud11.pdf)~ | [priprema11.pdf](./v11/priprema11.pdf) | ~[rjesenja11.pdf](./v11/rjesenja11.pdf)~ | ~[priprema11.md](./v11/priprema11.md)~ |
+
+### [MySQL YouTube Playlist](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMskz6MdsMOgxzheIyjo-BZ)
